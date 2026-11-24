@@ -1,3 +1,4 @@
 # c_class
-daniil tashkan change
+
+Efe Dagli 100011973
 Obay Rihan 100010242
