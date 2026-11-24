@@ -1,4 +1,7 @@
 # c_class
-Name: Jochebed Ezookwa
-Surname:Quaisie
-Matriculation ID: 100011137
+Jochebed Ezookwa Quaisie 100011137
+Vasyl Khomenko 100011724
+Haitham Essoussi 100011476
+Denis Maingi 100011920
+Efe Dagli 100011973
+Obay Rihan 100010242
