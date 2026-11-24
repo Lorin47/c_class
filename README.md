@@ -1,3 +1,6 @@
+# c_class
+daniil tashkan change
+dylan anjeche 100012007
 Saher Ibrahim Abdelmonen 10001189
 Jochebed Ezookwa Quaisie 100011137
 Vasyl Khomenko 100011724
