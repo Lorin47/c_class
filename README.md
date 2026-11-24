@@ -1,5 +1,4 @@
 # c_class
 
-gamerboi9999 (Efe Dagli)
-
-matriculation #: 100011973
+Efe Dagli 100011973
+Obay Rihan 100010242
